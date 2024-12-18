@@ -18,8 +18,8 @@
   
   <entry>
     <title>节点推荐及其使用教程</title>
-    <link href="http://example.com/:/post/%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E5%8F%8A%E5%85%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html"/>
-    <id>http://example.com/:/post/%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%E5%8F%8A%E5%85%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</id>
+    <link href="http://example.com/post/2024-12-18.html"/>
+    <id>http://example.com/post/2024-12-18.html</id>
     <published>2024-12-17T10:30:47.000Z</published>
     <updated>2024-12-18T05:10:53.422Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>欢迎来到kamili的Blog!</title>
-    <link href="http://example.com/:/post/title.html"/>
-    <id>http://example.com/:/post/title.html</id>
+    <link href="http://example.com/post/title.html"/>
+    <id>http://example.com/post/title.html</id>
     <published>2024-12-17T10:19:18.589Z</published>
     <updated>2024-12-17T10:22:26.751Z</updated>
     
@@ -66,8 +66,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/:/post/hello-world.html"/>
-    <id>http://example.com/:/post/hello-world.html</id>
+    <link href="http://example.com/post/hello-world.html"/>
+    <id>http://example.com/post/hello-world.html</id>
     <published>2024-12-17T09:18:12.022Z</published>
     <updated>2024-12-17T10:23:58.776Z</updated>
     
